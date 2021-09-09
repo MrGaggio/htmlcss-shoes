@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+header{
+    background-color: burlywood;
+    height: 100px;
+    width: 100%;
+    text-align: right;
+    top: 0;
+    left: 0;
+}
+
+.lista{
+
+}
+
+nav li{
+    line-height: 100px;
+    display: inline-block;
+    list-style: none;
+    margin-right: 70px;
+}
+
+a{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 50%;
+    color: black;
+    padding: 10px 10px;
+    font-size: 1.5rem;
+}
