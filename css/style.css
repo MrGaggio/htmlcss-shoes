@@ -31,10 +31,14 @@ a{
     font-size: 1.5rem;
 }
 
+p{
+font-size: 2rem;
+color: yellow;
+}
+
 .container{
 width: 100vw;
 height: 100vh;
-background-color: red;
 }
 
 .scarpa{
@@ -48,4 +52,5 @@ background-color: red;
     transform: translate(-50%, -50%);
     text-align: center;
 }
+
 
