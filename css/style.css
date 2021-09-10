@@ -38,12 +38,6 @@ a{
     position: relative;
 }
 
-.superga, .converse, .tommy{
-    background-size: auto ;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
 .box div{
     position: absolute;
     top: 50%;
